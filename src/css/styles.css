@@ -34,6 +34,7 @@ a:hover {
 }
 
 .feedback-form-input {
+  font-family: 'Montserrat', sans-serif;
   width: 360px;
   height: 40px;
   padding-left: 12px;
@@ -44,6 +45,7 @@ a:hover {
 }
 
 .feedback-form-message {
+  font-family: 'Montserrat', sans-serif;
   width: 360px;
   height: 80px;
   padding-top: 8px;
